@@ -1,6 +1,5 @@
 import React from 'react';
 import data from '../data';
-import reviews from '../data';
 import { FaChevronLeft, FaChevronRight, FaQuoteRight } from 'react-icons/fa';
 import { useState } from 'react';
 
